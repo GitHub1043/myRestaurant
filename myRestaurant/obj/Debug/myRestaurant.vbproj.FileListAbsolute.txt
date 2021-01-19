@@ -1,0 +1,10 @@
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\myRestaurant\myRestaurant\bin\Debug\myRestaurant.exe.config
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\myRestaurant\myRestaurant\bin\Debug\myRestaurant.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\myRestaurant\myRestaurant\bin\Debug\myRestaurant.pdb
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\myRestaurant\myRestaurant\bin\Debug\myRestaurant.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\myRestaurant\myRestaurant\obj\Debug\myRestaurant.Form1.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\myRestaurant\myRestaurant\obj\Debug\myRestaurant.Resources.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\myRestaurant\myRestaurant\obj\Debug\myRestaurant.vbproj.GenerateResource.Cache
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\myRestaurant\myRestaurant\obj\Debug\myRestaurant.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\myRestaurant\myRestaurant\obj\Debug\myRestaurant.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\myRestaurant\myRestaurant\obj\Debug\myRestaurant.pdb
